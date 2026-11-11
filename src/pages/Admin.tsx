@@ -40,7 +40,7 @@ export default function Admin() {
   const [loadingMsgs, setLoadingMsgs] = useState(false);
 
   useEffect(() => {
-    document.title = "Garden Retreat | Admin Conversations";
+    document.title = "Nuvera Med Spa | Admin Conversations";
   }, []);
 
   useEffect(() => {
