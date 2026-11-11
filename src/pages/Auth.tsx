@@ -53,7 +53,7 @@ export default function Auth() {
   };
 
   useEffect(() => {
-    document.title = "Garden Retreat | Admin Sign In";
+    document.title = "Nuvera Med Spa | Admin Sign In";
   }, []);
 
   return (
