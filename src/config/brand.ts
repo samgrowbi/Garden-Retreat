@@ -15,7 +15,7 @@ export const BUSINESS_PHONE_DISPLAY = "+1 (610) 757-3388";
 export const BUSINESS_PHONE_TEL = "+16107573388";
 export const BUSINESS_EMAIL = "info@nuvera-medspa.com";
 
-export const SOCIAL_INSTAGRAM = "https://www.instagram.com/garden_retreat_medspa/";
+export const SOCIAL_INSTAGRAM = "https://www.instagram.com/nuvera_medspa/";
 export const SOCIAL_FACEBOOK = "https://www.facebook.com/profile.php?id=100091633284064";
 
 export const GOOGLE_MAPS_LINK = "https://www.google.com/maps/search/?api=1&query=540+Pennsylvania+Ave+Ste+100,+Fort+Washington,+PA+19034";
