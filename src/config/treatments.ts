@@ -169,8 +169,8 @@ export const FACELIFT_TREATMENT: TreatmentConfig = {
     "No Surgery. No Pain. Zero Downtime.",
   heroVideoUrl:
     "https://pub-eb17aaa123fc4145b1ee4c15fc2e5771.r2.dev/Med%20Spa/Hero%20Video/LED%20Hero%20Video.mp4",
-  price: "69",
-  originalPrice: "249",
+  price: "94.99",
+  originalPrice: "249.99",
   appointmentTypeId: "97205918",
   // calendarId intentionally unused - Acuity auto-selects from the appointment type
   calendarId: "",
