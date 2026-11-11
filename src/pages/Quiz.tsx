@@ -36,7 +36,7 @@ import { FACELIFT_TREATMENT } from "@/config/treatments";
 
 // Quiz-exclusive pricing — only shown to people who complete the assessment,
 // distinct from the treatment's general list price elsewhere on the site.
-const QUIZ_OFFER_PRICE = "69.99";
+const QUIZ_OFFER_PRICE = "94.99";
 const QUIZ_REGULAR_PRICE = "249.99";
 const QUIZ_SAVINGS = Math.round(parseFloat(QUIZ_REGULAR_PRICE) - parseFloat(QUIZ_OFFER_PRICE));
 
