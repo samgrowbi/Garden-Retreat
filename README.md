@@ -1,4 +1,4 @@
-# Garden Retreat V4
+# Nuvera Med Spa V4
 
 https://github.com/growbigroup/Improvepageuxuidesign.git
 
