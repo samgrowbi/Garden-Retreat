@@ -34,7 +34,7 @@ export function SpaceGallery() {
               <img
                 key={`top-${i}`}
                 src={src}
-                alt="Garden Retreat med spa interior"
+                alt="Nuvera Med Spa interior"
                 loading="lazy"
                 decoding="async"
                 className="h-40 md:h-64 lg:h-72 w-auto rounded-xl object-cover flex-shrink-0"
@@ -50,7 +50,7 @@ export function SpaceGallery() {
               <img
                 key={`bot-${i}`}
                 src={src}
-                alt="Garden Retreat med spa interior"
+                alt="Nuvera Med Spa interior"
                 loading="lazy"
                 decoding="async"
                 className="h-40 md:h-64 lg:h-72 w-auto rounded-xl object-cover flex-shrink-0"
