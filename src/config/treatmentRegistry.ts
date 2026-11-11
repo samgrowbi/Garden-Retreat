@@ -83,8 +83,8 @@ function policyField(acuityFieldId: number): IntakeField {
 }
 
 export const TREATMENT_INTAKE_FIELDS: Record<string, IntakeField[]> = {
-  faceliftv2: [CONCERNS_FIELD, AGE_FIELD, policyField(15671088), SMS_CONSENT_FIELD],
-  facelift: [CONCERNS_FIELD, AGE_FIELD, policyField(15671088), SMS_CONSENT_FIELD],
+  faceliftv2: [CONCERNS_FIELD, AGE_FIELD, policyField(18308879), SMS_CONSENT_FIELD],
+  facelift: [CONCERNS_FIELD, AGE_FIELD, policyField(18308879), SMS_CONSENT_FIELD],
   led: [CONCERNS_FIELD, AGE_FIELD, policyField(15671088), SMS_CONSENT_FIELD],
   "led-cryo": [CONCERNS_FIELD, AGE_FIELD, policyField(15671088), SMS_CONSENT_FIELD],
   "carbon-peeling": [CONCERNS_FIELD, AGE_FIELD, policyField(18308880), SMS_CONSENT_FIELD],
