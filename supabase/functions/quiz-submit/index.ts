@@ -2,7 +2,7 @@ import { createClient } from "npm:@supabase/supabase-js@2";
 import { corsHeaders } from "npm:@supabase/supabase-js@2/cors";
 import { z } from "npm:zod@3";
 
-const META_PIXEL_ID = "1689154455241427";
+const META_PIXEL_ID = "4085640888409867";
 const META_API_VERSION = "v20.0";
 
 const BodySchema = z.object({
