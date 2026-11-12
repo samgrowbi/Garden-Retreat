@@ -18,7 +18,7 @@ export const BUSINESS_EMAIL = "info@nuvera-medspa.com";
 export const SOCIAL_INSTAGRAM = "https://www.instagram.com/nuvera_medspa/";
 export const SOCIAL_FACEBOOK = "https://www.facebook.com/profile.php?id=100091633284064";
 
-export const GOOGLE_MAPS_LINK = "https://www.google.com/maps/search/?api=1&query=540+Pennsylvania+Ave+Ste+100,+Fort+Washington,+PA+19034";
+export const GOOGLE_MAPS_LINK = "https://maps.app.goo.gl/5dM6a3sEHRY7cj219";
 export const GOOGLE_MAPS_EMBED_SRC =
   "https://maps.google.com/maps?q=540%20Pennsylvania%20Ave%20Ste%20100%2C%20Fort%20Washington%2C%20PA%2019034&z=16&output=embed";
 
