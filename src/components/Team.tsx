@@ -1,9 +1,12 @@
 import { motion } from "motion/react";
-import teamMember1 from "@/assets/team-member-1.jpg";
-import teamMember2 from "@/assets/team-member-2.jpg";
-import teamMember4 from "@/assets/team-member-4.jpg";
-import teamMember5 from "@/assets/team-member-5.jpg";
-import teamMember6 from "@/assets/team-member-6.jpg";
+import teamMember1 from "@/assets/team-1.webp";
+import teamMember2 from "@/assets/team-2.webp";
+import teamMember3 from "@/assets/team-3.webp";
+import teamMember4 from "@/assets/team-4.webp";
+import teamMember5 from "@/assets/team-5.webp";
+import teamMember6 from "@/assets/team-6.webp";
+import teamMember7 from "@/assets/team-7.webp";
+import teamMember8 from "@/assets/team-8.webp";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import { useCallback } from "react";
@@ -12,9 +15,12 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const teamImages = [
   { image: teamMember1, alt: "Team member 1" },
   { image: teamMember2, alt: "Team member 2" },
-  { image: teamMember4, alt: "Team member 3" },
-  { image: teamMember5, alt: "Team member 4" },
-  { image: teamMember6, alt: "Team member 5" },
+  { image: teamMember3, alt: "Team member 3" },
+  { image: teamMember4, alt: "Team member 4" },
+  { image: teamMember5, alt: "Team member 5" },
+  { image: teamMember6, alt: "Team member 6" },
+  { image: teamMember7, alt: "Team member 7" },
+  { image: teamMember8, alt: "Team member 8" },
 ];
 
 export function Team() {
