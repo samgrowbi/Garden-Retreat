@@ -16,7 +16,7 @@ export const BUSINESS_PHONE_TEL = "+16107573388";
 export const BUSINESS_EMAIL = "appointments-fw@nuvera-medspa.com";
 
 export const SOCIAL_INSTAGRAM = "https://www.instagram.com/nuvera_medspa/";
-export const SOCIAL_FACEBOOK = "https://www.facebook.com/profile.php?id=100091633284064";
+export const SOCIAL_FACEBOOK = "https://www.facebook.com/profile.php?id=61582494670699#";
 
 export const GOOGLE_MAPS_LINK = "https://maps.app.goo.gl/5dM6a3sEHRY7cj219";
 export const GOOGLE_MAPS_EMBED_SRC =
